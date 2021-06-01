@@ -1,13 +1,13 @@
 # Dotfiles and scripts I use on dev machines
 
-> Based off https://github.com/haacked/dotfiles
+> Based off https://github.com/wicksipedia/dotfiles (Cheers, for this setup, Matt!)
 
 ## Setup
 
 1. Install the tools
-   ```iwr -useb https://raw.githubusercontent.com/wicksipedia/dotfiles/main/setup-choco.ps1 | iex```
+   ```iwr -useb https://raw.githubusercontent.com/farewelldave/dotfiles/main/setup-choco.ps1 | iex```
 2. Clone repo
-   ```git clone https://github.com/wicksipedia/dotfiles.git```
+   ```git clone https://github.com/farewelldave/dotfiles.git```
 3. Customise Powershell & Windows Terminal
    ```.\setup-shell.ps1```
 4. Reload profile
@@ -60,7 +60,6 @@ Free tools:
 - VSCode
 - Windows Powertoys
 - Windows Terminal
-- Which
 
 Paid tools: (optional)
 

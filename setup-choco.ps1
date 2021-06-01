@@ -20,7 +20,6 @@ Write-Host  "Intstalling minimal setup"
     powertoys `
     pwsh `
     sysinternals `
-    which `
     -y
 
 

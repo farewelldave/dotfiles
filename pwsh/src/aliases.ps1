@@ -8,5 +8,7 @@ Set-Alias -Name g -Value git
 
 Set-Alias -Name which -Value where.exe
 
-# Alternatively, you could use powershell Get-Command for a more full response:
+## Alternatively, you could use powershell Get-Command instead of
+## where.exe for a response with more information
+
 # Set-Alias -Name which -Value Get-Command
